@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy - Sustainable Energy Ireland">
+<meta name="DC.title" lang="en" content="Privacy Policy - Sustainable Energy Ireland">
+<meta name="description" content="Solar Panels Ireland - Harnessing solar power by installing panels on your home's roof is an investment that keeps on giving for a quarter-century. Over the next 25 years, you'll enjoy the benefits of free electricity, and every two months, you'll witness substantial reductions in your power bills.As electricity rates continue to climb, your savings will steadily increase. Not only will you see remarkable cost savings, but your commitment to renewable energy will also shrink your carbon footprint, contributing to the global battle against climate change.Your solar system will occasionally produce surplus electricity, which is seamlessly fed back into the grid. The surplus power you export will now earn you money, appearing as a credit on your electricity bill, further diminishing your energy expenses.Reducing your dependence on the grid enhances your energy security, making your home's power supply more reliable. Reach out to us today to discover how you can harness the sun's energy and potentially generate up to 80% of your own electricity.">
+<meta name="keywords" content="Sustainable Energy Ireland">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="privacy-policy.html">
+<link rel="shortcut icon"  href="img/httpssolarshareie.jpg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+.nav-item .nav-link{
+display: -webkit-flex;
+align-items: center;
+padding: 12.2px 0!important;
+margin: 0px 20.3px!important;
+-webkit-align-items: center;
+}
+.z476262380669a6a7636a5d52b7c970cc:hover, .z476262380669a6a7636a5d52b7c970cc:focus, .z476262380669a6a7636a5d52b7c970cc.focus, .z476262380669a6a7636a5d52b7c970cc.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
+}
+html{
+scroll-behavior: smooth;
+}
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
+}
+a{
+color: black;
+text-decoration: none;
+}
+.dropdown-menu{
+max-width:800px;
+overflow-x: auto;
+}
+.fa-star,.fa-star-half-alt{
+font-size: 14.9px;
+}
+.hamburger span:nth-child(3){
+top: 8px;
+transition: all 0.15s;
+}
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
+}
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 19.5px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
+}
+.navbar{
+background: #ffffff;
+transition: none;
+min-height: 77.4px;
+padding-top: 9.7px;
+padding-bottom: 10.4px;
+position: relative;
+z-index: 1000;
+box-shadow: 0 0 14.7px 0 rgb(0 0 0 / 10%);
+}
+.f8426dc8ce0edf3a516487941d3b3e5eb i{
+font-size: 20.3px;
+padding: 10px;
+}
+a:hover{
+color:#000000!important;
+background: none!important;
+opacity: .75;
+text-decoration: none;
+}
+.z1890a73e146c84b2648b609c7eba0da5 *{
+color:#141414;
+font-size:20px!important;
+}
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+.z1890a73e146c84b2648b609c7eba0da5 .b06b4862dc37f6c0ceca95ae44bff1bdc{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #141414;
+}
+.z1890a73e146c84b2648b609c7eba0da5 li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
+}
+.w32dd44e9f18080e0cb414fb514b34593{
+font-weight: 700 !important;
+}
+.z1890a73e146c84b2648b609c7eba0da5 ul{
+padding-left: 0px;
+}
+.z476262380669a6a7636a5d52b7c970cc,.z476262380669a6a7636a5d52b7c970cc:active{
+background-color:#844343!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 10.3px 20px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 200.1px !important;
+}
+.nav-link{
+color: #000000!important;
+}
+.z1890a73e146c84b2648b609c7eba0da5{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #62929b;
+bottom: 0;
+z-index: 0;
+width: 100%;
+}
+.dropdown-item{
+display: block;
+width: 100%;
+clear: both;
+font-weight: 400;
+color: #212529;
+text-align: inherit;
+white-space: nowrap;
+background-color: transparent;
+border: 0;
+}
+.hamburger span:nth-child(2){
+top: 8px;
+transition: all 0.15s;
+}
+.nav-link:hover, .dropdown-item:hover{
+color: #000000 !important;
+background: none!important;
+opacity: .75;
+}
+a:hover, a:focus, a.active{
+color:#000000!important;
+}
+.z1890a73e146c84b2648b609c7eba0da5 a{
+color:#141414;
+text-decoration: underline;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 50.3px;
+padding-top: 9.7px;
+box-shadow: 0 0 15.3px 0 rgb(0 0 0 / 10%);
+padding-bottom: 9.7px;
+text-align: left;
+}
+.hamburger span:nth-child(1){
+top: 0;
+transition: all 0.2s;
+}
+p, .w1720d8df445c8a7d0cc517e86d8d340e{
+font-size:20px;
+line-height: 1.68;
+font-weight: 400;
+}
+.hamburger span{
+position: absolute;
+right: 0;
+width: 30.3px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
+}
+button.navbar-toggler{
+width: 30.8px;
+height: 17.6px;
+cursor: pointer;
+transition: all 0.2s;
+top: 2rem;
+display: block;
+right: 1.5rem;
+position: absolute;
+}
+*{
+font-family: 'DM Sans', sans-serif;
+}
+</style>
+</head>
+<body>
+<nav class="navbar-expand-lg px-md-5 navbar">
+<a class="navbar-brand" href="index.html"  > 
+<img alt="" src="img/httpssolarshareie.jpg" width="100px" >
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<div class="hamburger"><span></span><span></span><span></span><span></span></div>
+</button>
+<div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="ml-auto navbar-nav">
+<li class="nav-item">
+<a class="nav-link w1720d8df445c8a7d0cc517e86d8d340e" href="news.html" rel="nofollow"><b>News</b></a>
+</li>
+<li class="nav-item">
+<a class="w1720d8df445c8a7d0cc517e86d8d340e nav-link" href="index.html" ><b>Sustainable Energy Ireland</b></a>
+</li>
+<li class="nav-item">
+<a class="w1720d8df445c8a7d0cc517e86d8d340e nav-link" href="renewable-energy-ireland.html" ><b>Renewable Energy Ireland</b></a>
+</li>
+<li class="nav-item">
+<a class="nav-link w1720d8df445c8a7d0cc517e86d8d340e" href="solarshare.html" ><b>Solarshare</b></a>
+</li>
+<li class="nav-item">
+<a class="w1720d8df445c8a7d0cc517e86d8d340e nav-link" href="solarshare-company.html" ><b>Solarshare Company</b></a>
+</li>
+<li class="nav-item dropdown">
+<a class="dropdown-toggle nav-link w1720d8df445c8a7d0cc517e86d8d340e" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-panels-in-ireland.html" >Solar Panels In Ireland</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-panels-in-dublin.html" >Solar Panels In Dublin</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-panels-in-kildare.html" >Solar Panels In Kildare</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solarshare-offaly.html" >Solarshare Offaly</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="solarshare-carlow.html" >Solarshare Carlow</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solarshare-wicklow.html" >Solarshare Wicklow</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solarshare-westmeath.html" >Solarshare Westmeath</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="solarshare-kilkenny.html" >Solarshare Kilkenny</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="solarshare-meath.html" >Solarshare Meath</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solarshare-louth.html" >Solarshare Louth</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-panels.html" >Solar Panels</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="solar-energy.html" >Solar Energy</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-power.html" >Solar Power</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="solar-panels-1.html" >Solar Panels</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="green-energy.html" >Green Energy</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-share.html" >Solar Share</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="community-solar.html" >Community Solar</a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e dropdown-item" href="solar-investment.html" >Solar Investment</a>
+<a class="dropdown-item w1720d8df445c8a7d0cc517e86d8d340e" href="clean-energy.html" >Clean Energy</a>
+</div>
+</li><li class="nav-item"><a class="w1720d8df445c8a7d0cc517e86d8d340e nav-link" href="about-us.html"><b>About Us</b></a></li>
+<li class="nav-item">
+<a class="btn z476262380669a6a7636a5d52b7c970cc w1720d8df445c8a7d0cc517e86d8d340e" href="https://solarshare.ie/contact-us/" rel="nofollow"><b>Contact Us</b></a>
+</li>
+</ul>
+</div>
+</nav>
+<div>
+<section class="container">
+<h1>Privacy Policy for Solar Panels Ireland</h1>
+<p>At Solar Panels Ireland one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by Solar Panels Ireland and how we use it. You can check out our main website here: https://solarshare.ie/</p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Solar Panels Ireland. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Solar Panels Ireland, address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p>Solar Panels Ireland follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Solar Panels Ireland.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Solar Panels Ireland, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Solar Panels Ireland has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>Solar Panels Ireland's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p>Solar Panels Ireland does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+Solar Panels Ireland</br>
+</br>
+Carlisle Building, 51 Bracken Rd, Sandyford, Co. Dublin, D18 CV48</br>
+</br>
+</br>
+https://solarshare.ie/</br>
+info@solarshare.ie</br>
+</p>
+</section>
+</div>
+<footer class="z1890a73e146c84b2648b609c7eba0da5">
+<div class="container"><div class="row"><div class="col-lg-6">
+<h5 class="x437b3245051f1488d4da47b40844910a w32dd44e9f18080e0cb414fb514b34593 y5f7292757f53aaa41f377d5c4a73a36b mb-0">Solar Panels Ireland</h5>
+<ul class="w1720d8df445c8a7d0cc517e86d8d340e">
+<li> Carlisle Building, 51 Bracken Rd, Sandyford, Co. Dublin, D18 CV48</li>
+<li> info@solarshare.ie</li>
+<li><a href="https://maps.app.goo.gl/ytkaaUrEkUgyaXs28" rel="nofollow"> Google Business Profile</a></li>
+<li>Company Website : <a class="text-break" href="https://solarshare.ie/" rel="nofollow">https://solarshare.ie/</a></li>
+</ul> 
+</div><div class="col-lg-3">
+<ul class="mt-0">
+<h5 class="y5f7292757f53aaa41f377d5c4a73a36b mb-3 bce01cd4d8cf0a7bccd5eceedcaf189f2"><strong>LATEST BLOGPOSTS</strong></h5>
+<li><a href="https://en.wikipedia.org/wiki/Ireland" rel="nofollow" target="_blank">Ireland</a></li>
+<li><a href="https://solarshare.ie/articles/smart-meter-rollout-and-the-new-ceg-scheme/" rel="nofollow" target="_blank">The Smart Meter rollout has begun! and the new Clean Export Guarantee (CEG) scheme</a></li>
+<li><a href="https://solarshare.ie/articles/solar-panel-installers-how-to-spot-a-good-one/" rel="nofollow" target="_blank">Solar Panel Installation – How to get it right</a></li>
+<li><a href="https://solarshare.ie/articles/vat-reduction-on-solar-panels/"  target="_blank">VAT reduction on Solar Panels</a></li>
+<li><a href="https://solarshare.ie/articles/is-it-worth-getting-a-battery-with-solar-panels/"  target="_blank">Is it worth getting a battery with solar panels?</a></li>
+<li><p><iframe allowfullscreen="" height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435048.123671261!2d-7.9559668499999985!3d53.415243149999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485e619e5d73698f%3A0xca9b39444d6ac68d!2sIreland!5e0!3m2!1sen!2sbd!4v1698394658118!5m2!1sen!2sbd" style="border:0;" width="1200"></iframe></p>
+</li> 
+</ul>
+</div></div><div class="row">
+<div class="col-12">
+<div class="b06b4862dc37f6c0ceca95ae44bff1bdc">
+<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="w1720d8df445c8a7d0cc517e86d8d340e" href="privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+<a href="about-us.html" rel="nofollow">
+<b>About Us</b></a>
+</div><div>
+<p>Follow us</p>
+<a href="https://www.facebook.com/SolarShareVPP/" class="f8426dc8ce0edf3a516487941d3b3e5eb facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/solarsharevpp" class="f8426dc8ce0edf3a516487941d3b3e5eb pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/solarsharevpp/" class="f8426dc8ce0edf3a516487941d3b3e5eb google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://twitter.com/SolarShareVPP" class="f8426dc8ce0edf3a516487941d3b3e5eb twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+</div></div>
+</div>
+</div></div>
+</footer></body>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
